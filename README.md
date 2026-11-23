@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-01/zvsvev/solmar-bay/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 [![reward](https://make.fun/badge/gta6-01/zvsvev/solmar-bay/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
-Solmar Bay — a 2D top-down open-world crime game. A seeded 3200x2400 city (8 avenues x 8 streets, park, beach and pier, named landmarks), traffic and pedestrians, stealable cars with arcade driving, a 0–5 star wanted system with police chases and arrests, 3 story missions for Rico Hale, fists and pistol combat, health/cash/ammo pickups, a HUD with minimap, localStorage saves, and synthesized WebAudio. Static files, no network.
+Solmar Bay — a 2D top-down open-world crime game. A seeded 3200x2400 city (8 avenues x 8 streets, park, beach and pier, named landmarks), traffic and pedestrians, stealable cars with arcade driving, a 0–5 star wanted system with police chases and arrests, 3 story missions for Rico Hale, fists and pistol combat, health/cash/ammo pickups, a HUD with minimap, localStorage saves, and synthesized WebAudio. Static files, no network. Verified: missions 1 and 3 completed end-to-end in headless Chrome with zero console errors.
 
 ## Run it
 
